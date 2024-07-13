@@ -1,1 +1,2 @@
 Este es el archivo SEGUNDO.txt
+Verificando que ya no hay seguimiento para este archivo
